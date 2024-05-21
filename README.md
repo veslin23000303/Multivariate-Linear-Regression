@@ -19,8 +19,8 @@ End the program
 ## Program:
 ```
 #Program to find Univariate Linear Regression
-#Developed by: SADHANA SHREE B
-#Register number: 212223230177
+#Developed by: VESLIN ANISH A
+#Register number: 212223240175
 import pandas as pd
 from sklearn import linear_model
 data=pd.read_csv("car.csv")
@@ -35,7 +35,8 @@ print('predicted CO2 for the corresponding weight and volume',predictCO2)
 
 ```
 ## Output:
-![Screenshot 2024-05-16 080449](https://github.com/SadhanaShreee/Multivariate-Linear-Regression/assets/144517664/0b16b7c3-2a4d-475a-af78-0ac8481df828)
+![Screenshot 2024-05-21 114547](https://github.com/veslin23000303/Multivariate-Linear-Regression/assets/151148539/a313e92d-1c37-46e3-b93b-f85f44b3a5b1)
+
 
 ## Result
 Thus the multivariate linear regression is implemented and predicted the output using python program.
